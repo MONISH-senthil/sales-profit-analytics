@@ -107,3 +107,9 @@ Replace `YOUR-USERNAME` with your GitHub username.
 
 ## Learning outcomes
 This project demonstrates data cleaning, feature engineering, aggregation, exploratory data analysis, interactive visualization, file handling and Git/GitHub workflow.
+## Future Improvements
+
+- Add AI-based sales predictions.
+- Add monthly sales reports.
+- Add customer purchase analysis.
+- Improve dashboard design.
